@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 👋
+# I'm curretnly studying Computer Science and Biotechnology :)
 
 <!--
 **GorkSS/GorkSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
